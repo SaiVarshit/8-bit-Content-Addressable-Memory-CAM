@@ -25,3 +25,18 @@ The basic cell diagram of a CAM consists of
 # DSCH
 We can generate 1 bit CAM cell either using NAND,NOR or Transmission Gates.
 First I have generated a 1 bit CAM using NAND gates.
+
+
+
+
+![1 bit CAM using NAND ](https://github.com/SaiVarshit/8-bit-Content-Addressabl
+![simulation output of 1 bit CAM](https://github.com/SaiVarshit/8-bit-Content-Addressa
+![Simulation output](https://github.com/SaiVarshit/8-bit-Content-Addressable-Memory-CAM/assets/171639583/587c71c2-4bc5-4479-9c3a-0156b0e04fd3)
+![Timing diagram](https://github.com/SaiVarshit/8-bit-Content-Addressable-Memory-CAM/assets/171639583/bb1aeeae-edfb-4391-89d2-957db12e8b06)
+bl
+![8 bit CAM using 1 bit CAM](https://github.com/SaiVarshit/8-bit-Content-Addressable-Memory-CAM/assets/171639583/bba8ec5a-8aa7-4bae-8747-d4bb3a125224)
+![8 bit circuit diagram](https://github.com/SaiVarshit/8-bit-Content-Addressable-Memory-CAM/assets/171639583/7de92cc6-561f-42e0-b925-58cc8dfb3fb3)
+e-Memory-CAM/assets/171639583/5e779dd4-8433-415d-a143-c416c76f4c07)
+![Truth Table](https://github.com/SaiVarshit/8-bit-Content-Addressable-Memory-CAM/assets/171639583/1912a272-c472-4b89-8366-d4a67e7deb51)
+![circuit diagram of 1 bit CAM](https://github.com/SaiVarshit/8-bit-Content-Addressable-Memory-CAM/assets/171639583/c708d85b-872f-474e-82f6-8226af33806f)
+e-Memory-CAM/assets/171639583/e5df44f0-2afd-4db7-bc82-7f347db04911)
