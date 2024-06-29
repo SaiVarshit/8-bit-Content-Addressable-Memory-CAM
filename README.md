@@ -1,13 +1,25 @@
 # 8-bit-CAM-Content-Addressable-Memory
-8 bit CAM using 1 bit CAM simulated in  Dsch2
+Content addressable memory (CAM) is a data storage device, that stores memory in cells. When any aspect of the memory is entered, the CAM compares the input with all the stored data. It is a high-speed technology. In CAM memories are not arranged in chronological order and are not packed in isolated modules.
+
+CAM is used in very high-speed searching applications. It is also called associative memory, associative storage, or associative array.
+
+Features of CAM:
+
+It is used in the database management system.
+It is also called Associative memory.
+CAM is expensive than RAM.
+CAM is suitable for parallel search.
+It returns the list of data word address that was located.
 
 The project focuses on the design and performance analysis of a simple 8-bit CAM circuit. The circuit is simulated using DSCH2 software. The 8-bit CAM can be implemented with either NAND gates or transmission gates (CMOS).
 
-The main aim of the project is to become familiar with memories and the DSCH2 software.
+The aim of the project is to get familiar with memories and the DSCH software.
 
 The DSCH program is a logic editor and simulator used to validate the architecture of logic circuits before beginning microelectronics design.The Dsch can generate the Verilog code file.
 
-# Dsch2
+# DSCH
+The basic cell diagram of a CAM consists of
+
 First I have generated a 1 bit CAM using NAND gates.
 ![Screenshot 2024-06-29 084226](https://github.com/Adish30/8-bit-CAM-Content-Addressable-Memory-/assets/114245305/0c2d0e9a-fa1e-454b-ad21-383262545141)
 Next, using the above instantiation, 8 bit CAM can be generated.
